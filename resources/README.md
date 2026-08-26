@@ -11,6 +11,7 @@ This folder contains useful resources for learning and exploring Artificial Inte
 **Useful Tools**
 
   Resources and references for exploring AI platforms, productivity tools, and AI-powered applications.
+
 **Learning Approach**
 
 Start with the fundamentals, practice with AI tools, build small projects, and gradually explore more advanced topics.
